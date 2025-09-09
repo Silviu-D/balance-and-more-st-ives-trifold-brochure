@@ -20,21 +20,25 @@ The brochure was designed using \*\*Canva Pro\*\* and highlights a clear, senior
 
 \### Folded (Mockup)
 
-![Brochure Folded](preview/brochure-folded.png)
+![Brochure Folded](preview/brochure-folded.png)](preview/brochure-folded.png)
 
 
 
 \### Face 1 – Outside (Front, Back, Panel)
 
-![Face 1](preview/brochure-face-1.png)
+![Face 1](preview/brochure-face-1.png)](preview/brochure-face-1.png)
 
 
 
 \### Face 2 – Inside (Opened)
 
-![Face 2](preview/brochure-face-2.png)
+![Face 2](preview/brochure-face-2.png)](preview/brochure-face-2.png)
 
 ---
+
+
+## 📄 Download
+[📥 Brochure (PDF)](exports/brochure-final.pdf)
 
 
 
@@ -115,6 +119,7 @@ Silviu Dobrota
 \[LinkedIn](www.linkedin.com/in/silviu-dobrota-153242ab) | \[Email](mailto:silviu.dobrota@hotmail.com)  
 
 Sydney, NSW, Australia
+
 
 
 
