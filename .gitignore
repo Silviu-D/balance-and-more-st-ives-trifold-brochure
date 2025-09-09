@@ -16,7 +16,6 @@ temp/
 .idea/
 
 # Canva exports (if you store big intermediate files here)
-*.pdf
 *.zip
 *.mp4
 
@@ -38,3 +37,4 @@ temp/
 
 # Git LFS large file pointers (if used)
 *.lfs
+
