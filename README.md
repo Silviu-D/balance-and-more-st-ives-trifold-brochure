@@ -20,19 +20,19 @@ The brochure was designed using \*\*Canva Pro\*\* and highlights a clear, senior
 
 \### Folded (Mockup)
 
-!\[Brochure Folded](./preview/brochure-folded.png)
+![Brochure Folded](preview/brochure-folded.png)
 
 
 
 \### Face 1 – Outside (Front, Back, Panel)
 
-!\[Face 1](./preview/brochure-face-1.png)
+![Face 1](preview/brochure-face-1.png)
 
 
 
 \### Face 2 – Inside (Opened)
 
-!\[Face 2](./preview/brochure-face-2.png)
+![Face 2](preview/brochure-face-2.png)
 
 ---
 
@@ -78,7 +78,7 @@ The brochure was designed using \*\*Canva Pro\*\* and highlights a clear, senior
 
 
 
-You can preview brochure images above. A full PDF export is available upon request or in the `/exports/` folder (if included). Contact for permission to view high-res print files.
+You can preview brochure images above. A full PDF export is available upon request or in the `/exports/` folder. Contact for permission to view high-res print files.
 
 
 
@@ -112,9 +112,10 @@ Branding and logos remain the property of KNC Care and its affiliates.
 
 Silviu Dobrota  
 
-\[LinkedIn](https://www.linkedin.com/in/silviudobrota) | \[Email](mailto:dobrotasilviu@yahoo.com)  
+\[LinkedIn](www.linkedin.com/in/silviu-dobrota-153242ab) | \[Email](mailto:silviu.dobrota@hotmail.com)  
 
 Sydney, NSW, Australia
+
 
 
 
