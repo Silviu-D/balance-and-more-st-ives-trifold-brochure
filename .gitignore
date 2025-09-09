@@ -1,0 +1,40 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Mac files
+__MACOSX/
+
+# Temporary folders
+tmp/
+temp/
+.cache/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Canva exports (if you store big intermediate files here)
+*.pdf
+*.zip
+*.mp4
+
+# GitHub-generated zip files
+*.tar.gz
+*.tar
+*.7z
+
+# Backup files
+*.bak
+*.old
+*.tmp
+~$*
+
+# Photoshop/Illustrator/Design sources (if not meant to be tracked)
+*.psd
+*.ai
+*.indd
+
+# Git LFS large file pointers (if used)
+*.lfs
